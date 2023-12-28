@@ -2,8 +2,6 @@
 
 ## Overview
 
-Briefly describe your project and its purpose.
-
 The project focuses on creating three types of charts in Python using the provided datasets. These visualizations aim to preview the data in form of charts
 
 ## Getting Started
